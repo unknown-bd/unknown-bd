@@ -17,7 +17,7 @@ I'm **[Unknown](https://github.com/unknown-bd)** a Hacker & Security Researcher.
   <summary>More about me</summary>
 
 - **Name**: Unknown
-- **From**: 127.0.0.1 🇧🇩
+- **From**: 127.0.0.1
 - **Uncertified Hacker** | **Bug Hunter** | **Security Researcher** | **Full Stake Web Developer** | **Red Teaming** | **CTF Player** 
 <!-- - Experienced in cracking, reverse engineering, bug hunting, forensics, social engineering, and spy actions. -->
 - Improving knowledge in **Website Vulnerabilities**
