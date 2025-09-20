@@ -1,4 +1,4 @@
-<div align="center" style="padding-top:90px">
+<div align="center" style="padding-top:100px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=18F71D&width=820&lines=Living+Between+Exploits+And+Escape+Codes+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%96%A4;Silent+In+Life%2C+Loud+In+The+System+%F0%9F%94%87%F0%9F%92%A5)](https://git.io/typing-svg)
 
