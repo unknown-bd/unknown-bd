@@ -48,7 +48,7 @@ I'm **[Unknown](https://github.com/unknown-bd)** a Hacker & Security Researcher.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unknown-bd&theme=radical" alt="GitHub Streak" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-bd&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-bd&theme=radical" alt="Top Languages" height="170"/>
 
 </p>
 
